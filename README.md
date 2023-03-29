@@ -1,3 +1,3 @@
 # gpu-predictions
 
-Attempting to predict 4090 launches :)
+Attempting to predict 4090 stock :)
